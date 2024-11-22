@@ -13,7 +13,7 @@ console.log(10)
 
 
 //syntax :
-
+//
 // variable - a container to save the values
 
 //variable_type variable_name = value
